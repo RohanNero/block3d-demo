@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <div className="flex flex-col gap-16 items-center justify-center text-center text-xl h-screen">
       <div className="mt-[-50px]">
-        <div>"{quote}"</div>
+        <div>&quot;{quote}&quot;</div>
         <div>- Kanye West</div>
       </div>
       <div className="flex flex-row gap-4">

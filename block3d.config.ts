@@ -7,7 +7,7 @@ import { Block3dConfig } from "block3d";
 
 // Adding a route to the `publicRoutes` array will allow anyone to view that page
 export const block3dConfig: Block3dConfig = {
-  publicRoutes: [""],
+  publicRoutes: ["/"],
   strict: false, // Boolean indicating if rules are strict (every rule criteria must be met vs only one being required)
   rules: [
     {

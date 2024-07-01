@@ -9,8 +9,8 @@ export default function Home() {
       <div className="flex flex-col gap-16 items-center justify-evenly text-center text-3xl bottom-full h-full">
         <div className="flex flex-col gap-4">
           <div>
-            Hello, welcome to the block3d demo! This page is marked "public", so
-            anyone can view it.{" "}
+            Hello, welcome to the block3d demo! This page is marked
+            &quot;public&quot;, so anyone can view it.{" "}
           </div>
           <div>
             {" "}
